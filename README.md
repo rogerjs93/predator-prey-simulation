@@ -1,5 +1,4 @@
 # predator-prey-simulation
-Biological simulation
 ---
 
 # Stochastic Multi-Species Simulation
